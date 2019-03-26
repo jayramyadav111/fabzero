@@ -1,0 +1,20 @@
+Steps to print a curve or somethings by using Vinyle Cutter
+First download the "Inkscape" software and install it on Desktop.
+
+Open inkscape and make somethings that you want to print, could be follow the below steps.
+
+a. Go to file -> Documents Properties -> here you set the box size. e.g. Width=150 & Height =50
+
+b. write or draw somethings that you want to cut.
+
+c. Set Image resolution to 600 (Pixle at = 600)
+
+d. Export it somewhere in .png formate. we exported it on desktop as text2.png.
+
+e. Go to: http://fabmodules.org/ for converting .png to .comm formate.
+
+f. Input format-> Image(.png)-> select the png file and upload -> output format-> Roland vinyl (.camm)-> set output force(g)=80 and velocity(cm/s)=20, other things that you want to set ->Process-> select Cut Vinyle 1-> Calculate-> Save, it saved in .comm formate.
+
+g. Now you have to sent this test2.comm file to Ronald Vinyle cutter to cut.
+
+3........................
